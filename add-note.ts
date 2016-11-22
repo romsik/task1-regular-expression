@@ -3,6 +3,14 @@ import { NavController } from 'ionic-angular';
 import { Camera } from 'ionic-native';
  //sdasd
 
+
+
+
+
+
+//////////////////////////////////---
+
+
 import {NotesData} from "../../providers/notes-data";
 
 /*
