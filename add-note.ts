@@ -4,7 +4,7 @@ import { Camera } from 'ionic-native';
 
 
 import {NotesData} from "../../providers/notes-data";
-
+/*עידן עידן עידן*/
 /*
   Generated class for the AddNote page.
 
